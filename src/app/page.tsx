@@ -1,5 +1,4 @@
 import LatestBlogs from "@/components/LatestBlogs/LatestBlogs";
-import LatestBlogCard from "@/components/ui/LatestBlogCard";
 import { Blog } from "@/types";
 
 const HomePage = async() => {

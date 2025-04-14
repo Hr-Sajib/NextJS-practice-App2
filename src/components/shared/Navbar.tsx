@@ -5,7 +5,7 @@ import { usePathname } from "next/navigation";
 import brandLogo from "@/assets/logo.png";
 import Image from "next/image";
 
-const Navbar = () => {
+const Navbar = () => { 
   const pathname = usePathname();
 
   const navLinks = [
